@@ -1,0 +1,10 @@
+# Flutter
+# Builds
+build/\n# iOS
+ios/Flutter/.generated\nios/Pods/\n# Android
+.android/\n# Web
+web/.dart_tool/\n# Dart
+.packages\npubspec.lock\n# Miscellaneous
+*.jks\n*.keystore\n# VS Code
+.vscode/\n# IntelliJ
+.idea/\n
