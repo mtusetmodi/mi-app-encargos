@@ -1,0 +1,9 @@
+name: mi-app-encargos
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+dependencies:
+  provider: ^5.0.0
+  supabase_flutter: ^0.2.0
+  http: ^0.13.0
